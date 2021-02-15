@@ -1,0 +1,15 @@
+//////////////////////
+This code can exponents a number 
+A number --->-2
+A rate --->-3
+The answer is -->-1/8
+//////////////////////
+This code can exponents a number 
+A number --->4 
+A rate --->2
+The answer is -->16
+//////////////////////
+This code can exponents a number 
+A number --->3
+A rate --->-2
+The answer is -->1/9
